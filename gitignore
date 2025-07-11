@@ -1,0 +1,25 @@
+
+# Eclipse specific files
+bin/
+.settings/
+.classpath
+.project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Java specific
+*.jar
+*.war
+*.ear
+
+# Other IDEs
+.idea/
+.vscode/
