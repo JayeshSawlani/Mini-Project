@@ -5,12 +5,12 @@ A **Java AWT & Swing-based application** developed collaboratively as a college 
 ---
 
 ## 🚀 Features
-✅ Faculty Login & Student Management
-✅ Mark Attendance with real-time updates
-✅ Sends Email Notifications to Students (Present/Absent)
-✅ Export Attendance Reports to Excel From Database
-✅ Attractive, Colorful GUI using AWT & Swing
-✅ Oracle Database integration via JDBC
+- ✅ Faculty Login & Student Management
+- ✅ Mark Attendance with real-time updates
+- ✅ Sends Email Notifications to Students (Present/Absent)
+- ✅ Export Attendance Reports to Excel
+- ✅ Attractive, Colorful GUI using AWT & Swing
+- ✅ Oracle Database integration via JDBC
 
 ---
 
