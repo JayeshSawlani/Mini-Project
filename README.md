@@ -25,7 +25,7 @@ A **Java AWT & Swing-based application** developed collaboratively as a college 
 ---
 
 ## 📸 Screenshots
-_Add screenshots of your application UI here._
+
 
 ---
 
