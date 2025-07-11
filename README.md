@@ -5,12 +5,12 @@ A **Java AWT & Swing-based application** developed collaboratively as a college 
 ---
 
 ## 🚀 Features
-- ✅ Faculty Login & Student Management
-- ✅ Mark Attendance with real-time updates
-- ✅ Sends Email Notifications to Students (Present/Absent)
-- ✅ Export Attendance Reports to Excel From Database
-- ✅ Attractive, Colorful GUI using AWT & Swing
-- ✅ Oracle Database integration via JDBC
+✅ Faculty Login & Student Management
+✅ Mark Attendance with real-time updates
+✅ Sends Email Notifications to Students (Present/Absent)
+✅ Export Attendance Reports to Excel From Database
+✅ Attractive, Colorful GUI using AWT & Swing
+✅ Oracle Database integration via JDBC
 
 ---
 
@@ -30,12 +30,11 @@ _Add screenshots of your application UI here._
 ---
 
 ## 👥 Team Members
-| Name                | Role                 |
-|---------------------|-----------------------|
-| Your Name           | Developer & Designer |
-| Teammate 1          | Database Specialist  |
-| Teammate 2          | Email Integration    |
-| Teammate 3          | Testing & Deployment |
+| Name            | Role                          |
+|-----------------|---------------------------------|
+| Jayesh Sawlani  | Full-stack Developer (GUI & DB)|
+| Pujita Kumari   | Full-stack Developer (GUI & DB)|
+
 
 ---
 
