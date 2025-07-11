@@ -25,7 +25,11 @@ A **Java AWT & Swing-based application** developed collaboratively as a college 
 ---
 
 ## 📸 Screenshots
-
+<img width="772" height="480" alt="image" src="https://github.com/user-attachments/assets/6c8d60df-c1a2-4243-9fdf-2c697d393c74" />
+<img width="831" height="575" alt="image" src="https://github.com/user-attachments/assets/f67cfa94-0033-4b54-82a1-6c0e0c1d6433" />
+<img width="1024" height="673" alt="image" src="https://github.com/user-attachments/assets/77e13503-3884-4876-99be-b136736abef0" />
+<img width="505" height="233" alt="image" src="https://github.com/user-attachments/assets/477efdad-37e3-45e0-9d33-ce04bb3c6739" />
+<img width="519" height="475" alt="image" src="https://github.com/user-attachments/assets/24380756-8db4-41a7-a61a-f297a713602c" />
 
 ---
 
